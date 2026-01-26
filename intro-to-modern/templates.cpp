@@ -47,6 +47,7 @@ int main() {
 
 
     std::cout << "Hello World\n";
+
     Vector<char> vc(200);
     Vector<std::string> vs(17);
 
